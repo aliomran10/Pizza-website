@@ -11,6 +11,8 @@ This project was created to practice routing, global state handling, and interac
 Try it out here:  
 [**Pizza Order App on Netlify**](https://mypizzas.netlify.app/)
 
+---
+
 ## 🚀 Features
 
 - Enter your full name to start your order

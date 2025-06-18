@@ -35,6 +35,8 @@ npm install
 
 npm run dev
 
+---
+
 ## 🖼️ Screenshots
 
 ![Screenshot 2025-06-18 180234](https://github.com/user-attachments/assets/c5d0e517-2b6f-4a3d-b89a-0d72bf163388)

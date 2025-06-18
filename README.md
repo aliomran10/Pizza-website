@@ -35,4 +35,16 @@ npm install
 
 npm run dev
 
-![Screenshot 2025-06-18 180339](https://github.com/user-attachments/assets/ffe1c91e-320f-4d1d-baf1-98c7e4226e15)
+## 🖼️ Screenshots
+
+![Screenshot 2025-06-18 180234](https://github.com/user-attachments/assets/c5d0e517-2b6f-4a3d-b89a-0d72bf163388)
+
+![Screenshot 2025-06-18 180339](https://github.com/user-attachments/assets/dcbfe132-2527-4b77-9d3f-491857c1c787)
+
+![Screenshot 2025-06-18 180412](https://github.com/user-attachments/assets/ed8619ff-67cf-4e1a-8fe6-ede0d69d0603)
+
+![Screenshot 2025-06-18 180801](https://github.com/user-attachments/assets/7402c90b-0847-4fe1-a859-e1a1e2844aae)
+
+![Screenshot 2025-06-18 180830](https://github.com/user-attachments/assets/e7e3a44e-c297-4fda-99b8-6eaba263563f)
+
+

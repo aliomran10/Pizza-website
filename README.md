@@ -34,3 +34,5 @@ npm install
 ### 3. Run the app
 
 npm run dev
+
+![Screenshot 2025-06-18 180339](https://github.com/user-attachments/assets/ffe1c91e-320f-4d1d-baf1-98c7e4226e15)

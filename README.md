@@ -6,6 +6,11 @@ This project was created to practice routing, global state handling, and interac
 
 ---
 
+## 🔗 Live Demo
+
+Try it out here:  
+[**Pizza Order App on Netlify**](https://mypizzas.netlify.app/)
+
 ## 🚀 Features
 
 - Enter your full name to start your order
@@ -34,19 +39,3 @@ npm install
 ### 3. Run the app
 
 npm run dev
-
----
-
-## 🖼️ Screenshots
-
-![Screenshot 2025-06-18 180234](https://github.com/user-attachments/assets/c5d0e517-2b6f-4a3d-b89a-0d72bf163388)
-
-![Screenshot 2025-06-18 180339](https://github.com/user-attachments/assets/dcbfe132-2527-4b77-9d3f-491857c1c787)
-
-![Screenshot 2025-06-18 180412](https://github.com/user-attachments/assets/ed8619ff-67cf-4e1a-8fe6-ede0d69d0603)
-
-![Screenshot 2025-06-18 180801](https://github.com/user-attachments/assets/7402c90b-0847-4fe1-a859-e1a1e2844aae)
-
-![Screenshot 2025-06-18 180830](https://github.com/user-attachments/assets/e7e3a44e-c297-4fda-99b8-6eaba263563f)
-
-
